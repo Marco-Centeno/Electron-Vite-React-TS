@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+![Imagen no encontrada](https://user-images.githubusercontent.com/46914545/159979537-7116a826-212c-45f4-a393-4abeabeabd07.jpg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Electron-Vite-React-TS
+This is a template for creating cross-platform desktop applications (Windows, macOS, and Linux) using Electron, Vite, React, and TypeScript. This project allows transforming React web applications into desktop applications while maintaining compatibility with all React libraries and frameworks.
+
 
 Currently, two official plugins are available:
 
@@ -28,3 +30,29 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+## Requirements
+
+- Node.js (v21.5.0 or higher)
+- npm ( v10.8.1 or higher)
+
+## Installation
+
+1. Clone the repository:
+
+   ```sh
+   `git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.git`
+   
+   `cd Electron-Vite-React-TS`
+
+2. Install the dependencies
+
+   ```sh
+    `npm install`
+
+## How to use
+
+You can use this as a common React-Vite development like `npm run dev` etc.
+
+![Imagen no encontrada](https://user-images.githubusercontent.com/46914545/159979537-7116a826-212c-45f4-a393-4abeabeabd07.jpg)
