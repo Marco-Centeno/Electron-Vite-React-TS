@@ -24,11 +24,11 @@ function App() {
       </div>
       <h1>Vite + React + TS</h1>
       <div>
-        <button className=' text-black' onClick={sendNotification}>
+        <button className=' text-black bg-white' onClick={sendNotification}>
           Send Notification
         </button>
         <p className=" text-zinc-400 p-2">
-          Presseted by Marco C.
+          Preseted by Marco C.
         </p>
       </div>
       <p>
