@@ -42,17 +42,44 @@ export default {
 1. Clone the repository:
 
    ```sh
-   `git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.git`
+   git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.gi
    
-   `cd Electron-Vite-React-TS`
+   cd Electron-Vite-React-TS
 
 2. Install the dependencies
 
    ```sh
-    `npm install`
+    npm install
 
 ## How to use
 
-You can use this as a common React-Vite development like `npm run dev` etc.
+- Test in a development mode
+
+  Use the command
+   ```sh
+   npm run dev
+   ```
+  For runing the programm in a developnet mode non-production
+
+  
+  
+- Build Project
+  
+  `You can add other command of Electron-Builder before the command of build`
+  - Building for different OS
+     - Windows
+       ```sh
+       npm run build:windows
+       ```
+
+      - Mac
+         ```sh
+         npm run build:mac
+         ```
+
+      - Linux
+         ```sh
+         npm run build:linux
+         ```
 
 ![Imagen no encontrada](https://user-images.githubusercontent.com/46914545/159979537-7116a826-212c-45f4-a393-4abeabeabd07.jpg)
