@@ -69,7 +69,7 @@ export default {
   - Building for different OS
      - Windows
        ```sh
-       npm run build:windows
+       npm run build:win
        ```
 
       - Mac
@@ -79,7 +79,7 @@ export default {
 
       - Linux
          ```sh
-         npm run build:linux
+         npm run build:lin
          ```
 
 ![Imagen no encontrada](https://user-images.githubusercontent.com/46914545/159979537-7116a826-212c-45f4-a393-4abeabeabd07.jpg)
