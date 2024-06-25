@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build && electron-builder",
+    "build:win": "tsc && vite build && electron-builder --windows --config",
+    "build:mac": "tsc && vite build && electron-builder --macos --config",
+    "build:lin": "tsc && vite build && electron-builder --linux --config",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
