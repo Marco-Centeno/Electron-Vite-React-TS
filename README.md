@@ -44,7 +44,6 @@ export default {
    ```sh
    git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.git
    
-
 2. Install the dependencies
 
    ```sh
