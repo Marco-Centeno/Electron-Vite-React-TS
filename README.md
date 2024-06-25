@@ -42,9 +42,8 @@ export default {
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.gi
+   git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.git
    
-   cd Electron-Vite-React-TS
 
 2. Install the dependencies
 
