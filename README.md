@@ -44,7 +44,7 @@ export default {
    ```sh
    git clone https://github.com/Marco-Centeno/Electron-Vite-React-TS.git
    
-2. Install the dependencies
+2. Into the root directory of this project install the dependencies
 
    ```sh
     npm install
