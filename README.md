@@ -81,6 +81,7 @@ export default {
          ```
   - You can also use custom building commands of electron builder
     - If you want to use custom electron builder commands in the CLI just use the command `npm run build ` and then use the other commands that you want
-    - [clic herek for the official commands documentation](https://www.electron.build/cli.html)
+    - You can [clic herek for the official commands documentation](https://www.electron.build/cli.html)
+   
 
 ![Imagen no encontrada](https://user-images.githubusercontent.com/46914545/159979537-7116a826-212c-45f4-a393-4abeabeabd07.jpg)
